@@ -1,0 +1,20 @@
+
+body{
+    background-color: black;
+}
+.play{
+    width: 800px;
+    height: 800px;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+#video{
+    width: 800px;
+    height: 800px;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
